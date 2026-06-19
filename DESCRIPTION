@@ -1,0 +1,50 @@
+# Retail-Sales-Forecasting-Segmentation-Dashboard
+
+1.Create the Project Structure
+
+Retail-Sales-Analytics-Dashboard/
+│
+├── data/
+│   └── retail_sales.csv
+│
+├── notebooks/
+│   └── EDA.ipynb
+│
+├── dashboard/
+│   └── app.py
+│
+├── reports/
+│   └── sales_report.xlsx
+│
+├── screenshots/
+│   ├── dashboard_home.png
+│   ├── sales_analysis.png
+│   └── customer_segments.png
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+2: Upload Your Dataset
+
+Place your retail dataset in:
+
+data/retail_sales.csv
+
+Dataset should have approximately:
+
+9994 rows
+21 columns
+
+Examples:
+
+Order ID
+Product
+Category
+Region
+Sales
+Profit
+Quantity
+Discount
+Order Date
+Customer ID
