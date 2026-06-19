@@ -1,4 +1,5 @@
 code:
+
 form customer_segment_assignments
 {
 	displayname = "Customer Segment Assignments"
@@ -102,3 +103,35 @@ form customer_segment_assignments
 		stages = {"Assignment Created","Segment Assigned","Review Required","Assignment Cancelled","Assignment Rejected","Assignment Verified","Assignment Reassigned","Assignment Finalized","Assignment Monitored","Assignment Updated"}
 	}
 }
+
+Problem Statement
+Analyze retail sales data to identify trends,
+customer segments and business opportunities.
+Technologies
+Python
+Pandas
+SQL
+Streamlit
+Power BI
+Tableau
+OpenPyXL
+Features
+✔ EDA
+✔ Feature Engineering
+✔ Customer Segmentation
+✔ KPI Dashboard
+✔ Excel Report Automation
+✔ Interactive Filters
+
+#Results
+
+Processed 9,994 transactions
+Built 10+ KPI dashboard
+Automated reporting
+Saved 5+ hours/week
+
+<img width="1600" height="698" alt="image" src="https://github.com/user-attachments/assets/4ca8248a-d46e-4781-803b-81d76336fc04" />
+
+<img width="1600" height="699" alt="image" src="https://github.com/user-attachments/assets/b88ee502-1038-47dd-8f8a-d6f6b3cff370" />
+
+
